@@ -1,7 +1,6 @@
 <p align="center">
   <h3 align="center">GeneralHashFunctions</h3>
   <p align="center">
-    Use xml to save and read app setting.
 </p>
 
 
