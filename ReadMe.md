@@ -3,9 +3,6 @@
   <p align="center">
 </p>
 
-
-通用的XML配置读写，扩平台支持
-
 ![ScreenShot](/ScreenShot.png)
 
 From
